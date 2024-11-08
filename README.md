@@ -21,7 +21,7 @@ Figures should be **90 mm** for single column or **180 mm** wide for double colu
 
 ### Font
 
-Figures should use Helvetica for all fonts. You can find the necessary font files in this repository, double click the font file and choose **install** on Windows or Mac.
+Figures should use Arial for all fonts. You can find the necessary font files in this repository, double click the font file and choose **install** on Windows or Mac.
 
  - **Figure panel letters** should be in *lowercase* *8-point* *bold* font with no period
  - **Additional text** on a figure should be in *italics* in *7-point* font, only the first letter should be capitalized
